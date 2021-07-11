@@ -1,0 +1,18 @@
+#更改端口号
+#server:
+#  port : 8090
+
+##- 普通的key-value
+#name: qin
+##- 对象
+#student:
+#  name: qin
+#  age: 3
+##- 行内写法
+#students: {name: qin, age: 3}
+##- 数组
+#pet:
+#  - cat
+#  - dog
+#  - pig
+#pets: {cat,dog,pig}
